@@ -11,11 +11,13 @@
             "id": "c7d0371a4918a93b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "README.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
+              "icon": "lucide-file",
               "title": "README"
             }
           }
@@ -168,9 +170,10 @@
   },
   "active": "c7d0371a4918a93b",
   "lastOpenFiles": [
+    "스크린샷 2025-06-05 18.28.39.png",
+    "README.pdf",
     "README.md",
     "무제.canvas",
-    "2025-04-18.md",
-    "README.pdf"
+    "2025-04-18.md"
   ]
 }
